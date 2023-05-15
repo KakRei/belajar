@@ -1,5 +1,4 @@
-import vectorImg1 from "@public/vector 1.svg"
-import vectorImg2 from "@public/vector 2.svg"
+import vectorImg1 from "@public/Vector 1.svg"
 import Image from "next/image"
 
 const about = () => {
